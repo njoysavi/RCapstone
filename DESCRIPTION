@@ -1,0 +1,25 @@
+Package: RCapstone
+Title: R Capstone project For Coursera
+Version: 0.0.0.1
+Author: Savinay Sehgal <njoysavi@gmail.com>
+Maintainer: Savinay Sehgal <njoysavi@gmail.com>
+Description: R Capstone project For Coursera. Analyses NOAA data
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+Imports:
+    ggplot2,
+    grid,
+    scales,
+    dplyr,
+    tidyr,
+    readr,
+    magrittr,
+    stringr,
+    leaflet,
+    lubridate,
+    knitr,
+    rmarkdown,
+    testthat
+VignetteBuilder: knitr
+RoxygenNote: 7.1.0
